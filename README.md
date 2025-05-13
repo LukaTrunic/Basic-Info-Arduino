@@ -13,7 +13,7 @@ This project is a microcontroller-based implementation for a basic simulation or
 
 ## 🛠 How to Run
 
-1. Open `2021230020_Luka_Trunic.ino` in the Arduino IDE.
+1. Open `final.ino` in the Arduino IDE.
 2. Connect the appropriate Arduino board (e.g., Uno or Nano).
 3. Upload the sketch to your device.
 4. Use Serial Monitor to observe output and verify behavior.
