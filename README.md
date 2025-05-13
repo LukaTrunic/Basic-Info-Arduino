@@ -15,9 +15,8 @@ This project is a microcontroller-based implementation for a basic simulation or
 
 1. Open `final.ino` in the Arduino IDE.
 2. Connect the appropriate Arduino board (e.g., Uno or Nano).
-3. Upload the sketch to your device.
-4. Use Serial Monitor to observe output and verify behavior.
-5. Refer to `image.jpg` for wiring or setup reference.
+3. Use Serial Monitor to observe output and verify behavior.
+4. Refer to `image.jpg` for wiring or setup reference.
 
 
 ## 📷 Circuit Overview
