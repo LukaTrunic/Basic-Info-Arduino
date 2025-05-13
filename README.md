@@ -1,4 +1,4 @@
-# 🔧 Radiation Detection Project (Arduino) – Luka Trunić
+# 🔧 📟 Arduino-Based Environmental Monitoring System (Distance, Temperature, Light)
 
 This project is a microcontroller-based implementation for a basic simulation or demonstration of a radiation detection or monitoring concept, developed as a final assignment.
 
